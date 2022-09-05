@@ -5,7 +5,7 @@
 # 公众号appSecret
 "app_secret": "73b2eacc06f0e3ff612ee988957a7112",
 # 模板消息id
-"template_id": "xb9oEsHJ6IcVX_miUu0S48UgqPj7oJOx9nHWfACLPW8",
+"template_id": "TvTVp8TN66faaLMpoZ2mxJptEHh_MQk6YoOrEjd8Q5Q",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["weixin1", "weixin2"]
 "user": ["o0dsa69gK7jCYfq4tNXcv04XNT_0"],
  
@@ -17,11 +17,11 @@
 # 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
 "birthday1": {"name": "LPK", "birthday": "2001-11-16"},
 # 生日2
-"birthday2": {"name": "ZX", "birthday": "2003-2-23"},
+"birthday2": {"name": "zhy", "birthday": "2000-2-29"},
 # 在一起的日子，格式同上，暂不不支持农历
-"love_date": "2022-07-28",
+"love_date": "1900-1-1",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "今晚月色很美",
+"note_ch": "",
 # 金句英文
 "note_en": ""
 }
